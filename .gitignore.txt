@@ -1,3 +1,0 @@
-[Bb]in/
-*.tmp
-[Bb]uild/*.log
